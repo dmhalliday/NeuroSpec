@@ -22,7 +22,7 @@ Theoretical and practical aspects of the analysis are described in the following
 Development of NeuroSpec was supported in part by grants from the UK Joint Research Council Cognitive Science/HCI Initiative, The Wellcome Trust (Grants 036928; 048128; 058615), the UK Engineering and Physical Sciences Research Council (GR/R12350/01), and the UK Biotechnology and Biological Sciences Research Council (10477).
 
 ## History
-**NeuroSpec** was previously hosted at https://www.neurospec.org/
+**NeuroSpec** was previously hosted at [https://www.neurospec.org/](https://github.com/dmhalliday/NeuroSpec)
 - NeuroSpec 1.0 Released Nov 2002.
 - NeuroSpec 2.0 Released Feb 2008. Update to plotting (ver 2.01) released Jul 2016.
 - NeuroSpec 2.1 Released Jun 2015.
