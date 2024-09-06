@@ -28,6 +28,7 @@ Development of NeuroSpec was supported in part by grants from the UK Joint Resea
 - NeuroSpec 2.1 Released Jun 2015.
 - NeuroSpec 2.11 Released Jul 2016.
 - NeuroSpec 2.2 Released Oct 2018.
+- Move to github Oct 2023.
 ### Contact
 david.halliday@york.ac.uk
 
